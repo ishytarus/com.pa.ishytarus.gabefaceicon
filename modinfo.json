@@ -1,0 +1,22 @@
+{
+    "enabled": true,
+    "context": "client",
+    "identifier": "com.pa.ishytarus.gabefaceicon",
+    "display_name": "Strategic Gabe Newell Icon - Commander",
+    "build": "76557",
+    "date": "2015/1/6",
+    "description": "Uses Gabe Newell's face as commander strategic icon.",
+    "category": [
+        "in-game",
+        "client-mod",
+        "Strategic-icons"
+    ],
+    "author": "Ishytarus",
+    "version": "1.0",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/rel-strategic-gabe-newell-icon.67065/",
+    "icon": "http://i.imgur.com/rAazm3F.png",
+    "priority": 100,
+    "content_id": "com.pa.ishytarus.gabefaceicon",
+    "store_id": "com.pahub.content.plugin.store.mod.client"
+}
